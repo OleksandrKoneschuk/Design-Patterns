@@ -1,0 +1,7 @@
+D:\Лаби\2 курс\2 семестр\Лабораторні\Design-Patterns\lab-1\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Лаби\2 курс\2 семестр\Лабораторні\Design-Patterns\lab-1\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Лаби\2 курс\2 семестр\Лабораторні\Design-Patterns\lab-1\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Лаби\2 курс\2 семестр\Лабораторні\Design-Patterns\lab-1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\Лаби\2 курс\2 семестр\Лабораторні\Design-Patterns\lab-1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Лаби\2 курс\2 семестр\Лабораторні\Design-Patterns\lab-1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Лаби\2 курс\2 семестр\Лабораторні\Design-Patterns\lab-1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
